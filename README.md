@@ -19,7 +19,6 @@ The process moves through ingestion, AI modeling, and cloud exporting stages as 
 *Configuring secure storage write permissions under the Nanonets environment.*
 
 ### 2. Instructing the AI Extract Agent
-![Nanonets Agent Prompting Screen](path/to/your/agent_instruction_screenshot.png)
 *Defining plain-English guidelines for your document parser (e.g., "Extract Invoice Number, Date, Vendor Name, and Total Amount").*
 
 ---
@@ -31,7 +30,6 @@ Once an invoice batch is forwarded to your active agent email channel, the data 
 ### Final Live Data Output in Google Sheets
 Below is the captured result showing production rows populated live by the extraction agent:
 
-![Google Sheets Data Target Result](path/to/your/google_sheets_final_output_screenshot.png)
 
 ### Performance Matrix: Nanonets vs Traditional Processing
 | Parameter | Traditional AP Data Entry | Nanonets AI Agents |
